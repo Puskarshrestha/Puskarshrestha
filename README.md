@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Puskarshrestha/Puskarshrestha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm puskar, undergraduate student of science who is passionate about technicall field. Here, you'll find a collection of my projects, contributions, and experiments.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning:programming language
+- 💬 Ask me about: anything
+- 📫 How to reach me: [https://www.facebook.com/profile.php?id=100093412732101)]
+- ⚡ Fun fact: [A Fun Fact About You]
+
+## My Skills
+
+- **Languages**: C
+- **Frameworks**: [List of Frameworks You Use]
+- **Tools**: [Tools You're Proficient With]
+- **Other Skills**: communication ,inspiration to other 
+
+## My Projects
+
+## Get in Touch
+
+I'm always open to new opportunities and collaborations! Feel free to reach out to me through messenger.
+
+---
+
+Thanks for stopping by! 😊
